@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="UnitStats" load_steps=2 format=3 uid="uid://dr37keu4dcvsf"]
 
-[ext_resource type="Script" uid="uid://y8dybnckcmqf" path="res://data/units/unit_stats.gd" id="1_d6p4t"]
+[ext_resource type="Script" uid="uid://ch7d1tmjqysd2" path="res://data/units/unit_stats.gd" id="1_d6p4t"]
 
 [resource]
 script = ExtResource("1_d6p4t")
@@ -8,4 +8,3 @@ name = "Bjorn"
 rarity = 0
 gold_cost = 1
 skin_coordinates = Vector2i(1, 3)
-metadata/_custom_type_script = "uid://y8dybnckcmqf"

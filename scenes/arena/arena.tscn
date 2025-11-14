@@ -1,8 +1,8 @@
 [gd_scene load_steps=8 format=4 uid="uid://bye3nte4f6v6c"]
 
 [ext_resource type="TileSet" uid="uid://s1w31er1l8hb" path="res://scenes/arena/tileset.tres" id="1_1qjuf"]
-[ext_resource type="Script" uid="uid://de7tx0u4cp652" path="res://scenes/arena/arena.gd" id="1_5tue2"]
-[ext_resource type="Texture2D" uid="uid://mbxv0ayrsu3d" path="res://assets/sprites/star_particle.png" id="2_8trdl"]
+[ext_resource type="Script" uid="uid://bjygpsi1q12aq" path="res://scenes/arena/arena.gd" id="1_5tue2"]
+[ext_resource type="Texture2D" uid="uid://c8s5f4nrvbmv5" path="res://assets/sprites/star_particle.png" id="2_8trdl"]
 [ext_resource type="PackedScene" uid="uid://thrr4dmrnaq5" path="res://scenes/unit/unit.tscn" id="4_aj7ud"]
 
 [sub_resource type="Curve" id="Curve_5tue2"]
